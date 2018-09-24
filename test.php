@@ -5,6 +5,9 @@
         var $nombre;
         var $comentario;
         
+        public function Heroe($nombre, $comentario)
+        {
+        }
     }
     
 ?>
